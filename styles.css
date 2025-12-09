@@ -22,13 +22,14 @@ h1{
     background-color: white;
     align-items: center;
 }
-p{
+.card p{
     font-family: "Outfit", sans-serif;
     font-size: 10px;
     text-align: center;
     font-weight: normal; 
     color: rgb(161, 159, 159);
-     margin-bottom: 90px;
+     padding: .5rem;
+     margin-top: -6px;
     
 }
 body{
